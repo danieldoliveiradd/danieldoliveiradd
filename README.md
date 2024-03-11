@@ -13,8 +13,3 @@ You can find me on:
 - C#
 - TypeScript
 - JavaScript
-- Python
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldoliveiradd&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldoliveiradd&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
