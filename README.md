@@ -8,8 +8,11 @@ You can find me on:
 
 [![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/danieldoliveiradd/)
 
+
 ## Technologies I Work With
 - C++
-- C#
 - TypeScript
 - JavaScript
+- Ruby (Hobby)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldoliveiradd&show_icons=true&theme=draculla)
