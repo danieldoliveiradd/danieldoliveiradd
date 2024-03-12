@@ -14,5 +14,3 @@ You can find me on:
 - TypeScript
 - JavaScript
 - Ruby (Hobby)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldoliveiradd&show_icons=true&theme=draculla)
