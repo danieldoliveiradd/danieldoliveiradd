@@ -13,4 +13,5 @@ You can find me on:
 - C++
 - TypeScript
 - JavaScript
-- Ruby (Hobby)
+- Node.JS
+- React.JS
