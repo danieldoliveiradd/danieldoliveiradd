@@ -10,6 +10,7 @@ You can find me on:
 
 
 ## Technologies I Work With
+- C#
 - C++
 - TypeScript
 - JavaScript
