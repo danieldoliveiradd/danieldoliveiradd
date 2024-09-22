@@ -1,11 +1,24 @@
-### Hi there 👋
+<div align="center">
 
+<a href="http://www.github.com/danieldoliveiradd"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
+
+![Visitor Count](https://profile-counter.glitch.me/{danieldoliveiradd}/count.svg)
+
+<div align="center">
+  <a href="http://www.github.com/danieldoliveiradd"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=danieldoliveiradd&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/danieldoliveiradd"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldoliveiradd&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
+<a href="http://www.github.com/danieldoliveiradd"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
+<a href="http://www.github.com/danieldoliveiradd"><img src="https://github-profile-trophy.vercel.app/?username=danieldoliveiradd&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"></a>
+</div>
+</div>
+
+### Hi there 👋
 
 - ✨ My name is **Daniel OLiveira**
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Gaming, Car Audio Systems, Studies Related to Space Exploration
 - ✨ **Competencies**: JavaScript, ReactJS, C#, .NET Core, TypeScript, Bootstrap, jQuery, MongoDB, Node.js, HTML, CSS, UNIX, SQL, UI UX, Figma
-
 
 #### 🌱 My Latest Projects
 
@@ -50,16 +63,3 @@
 - [React 18 is Now Available!](https://www.linkedin.com) - November 04, 2023
 - [How to Make Use of LinkedIn Professionally and Effectively](https://www.linkedin.com) - October 12, 2023
 - [How to Connect MongoDB](https://www.example.com) - August 05, 2023
-
-<div align="center">
-
-
-<a href="http://www.github.com/danieldoliveiradd"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
-
-![Visitor Count](https://profile-counter.glitch.me/{danieldoliveiradd}/count.svg)   
-<div align="center">
-  <a href="http://www.github.com/danieldoliveiradd"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=danieldoliveiradd&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/danieldoliveiradd"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldoliveiradd&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</div>
-<a href="http://www.github.com/danieldoliveiradd"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
-<a href="http://www.github.com/danieldoliveiradd"><img src="https://github-profile-trophy.vercel.app/?username=danieldoliveiradd&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"></a>
